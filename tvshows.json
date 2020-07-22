@@ -1,0 +1,21 @@
+[
+	{
+		"id": 0,
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51aeclpFaHL._SX323_BO1,204,203,200_.jpg",
+		"title": "The Boys",
+		"resume": "Um grupo de vigilantes partiu para derrubar super-heróis corruptos que abusam de seus superpoderes.",
+		"year": "2019-2020",
+		"seasons": 2,
+		"episodes": 8,
+		"duration": "Cerca de 50 minutos por episódio",
+		"youtube_trailer": "https://www.youtube.com/embed/tcrNsIaQkb4",
+		"direction": "Eric Kripke , Evan Goldberg , Seth Rogen",
+		"production": "Warner Bross",
+		"link_imdb_resume": "https://www.imdb.com/title/tt1190634/",
+		"imdb_rating": "9.4",
+		"rotten_rating": "91%",
+		"metacritic_rating": 94,
+		"categories": "categories here",
+		"where_to_watch": "Exclusivo PrimeVideo"
+	},
+]
